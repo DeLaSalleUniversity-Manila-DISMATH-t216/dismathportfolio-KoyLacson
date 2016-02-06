@@ -31,3 +31,25 @@ dismathportfolio-KoyLacson created by Classroom for GitHub
 * I learned about the Rules of Inference and how to use them to prove a proposition
 * Was able to prove Superman does not exist through processes involving logical equivalences and the rules of inference
   
+### WEEK 3
+* Methods of proofs were introduced
+  * Direct Proof (p → q)
+    * Assuming p ≡ T, show that q ≡ T
+  * Proof by Contraposition (¬q → ¬p)
+    * Assuming ¬q ≡ T, show ¬p ≡ T.
+  * Vacuous Proof (¬p → (p → q) )
+  * Trivial Proof (q → (p → q) )
+ 
+### WEEK 4
+* Proof by Contradiction
+  * Assuming ¬p, the whole statement is true, show that it leads to a contradiction
+* Proof by Equivalence (p ↔ q)
+  * Show (p → q) and (q → p) ≡ T.
+* Mathematical Induction
+  * 1. Basis (P(1) is true)
+  * 2. Inductive Step
+    * if P(k) ≡ T, then P(k+1) ≡ T for all positive integers, k.
+* Recursion
+  * 1. Basis 
+  * 2. Recursive step
+* Summation

@@ -53,3 +53,38 @@ dismathportfolio-KoyLacson created by Classroom for GitHub
   * 1. Basis 
   * 2. Recursive step
 * Summation
+
+### WEEK 5
+* Biconditional Statement (p ↔ q)
+* Induction and Recursion
+* Program Correctness
+* Hoare Triple
+
+### WEEK 6
+* Sets
+  * Subsets/Supersets
+  * Common Kinds of Sets
+* Program Verification
+
+### WEEK 7
+* Functions
+  * One-to-one Function (Injective)
+  * Onto Function (Surjective)
+  * Bijective
+* Range and Codomain
+
+### WEEK 8
+* Algorithms
+* Preconditions, Input, Postconditions, Output
+* Pseudocodes
+* Maximum Algorithm
+* Linear Search Algorithm 
+
+### WEEK 9
+* Bubble Sort Algorithm
+* Binary Search Algorithm
+* Greedy Algorithm
+* Big O Notation (upper bound function)
+* Big Ω Notation (lower bound function)
+* Big Θ Notation (both upper and lower bound functions)
+* Time Complexity

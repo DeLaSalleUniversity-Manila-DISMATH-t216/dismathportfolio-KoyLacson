@@ -1,5 +1,8 @@
 # dismathportfolio-KoyLacson
 dismathportfolio-KoyLacson created by Classroom for GitHub
+
+#### Victor Anthony C. Lacson DISMATH EL
+
 ### WEEK 1
 * Discrete Mathematics was introduced
 
@@ -88,3 +91,43 @@ dismathportfolio-KoyLacson created by Classroom for GitHub
 * Big Ω Notation (lower bound function)
 * Big Θ Notation (both upper and lower bound functions)
 * Time Complexity
+
+### WEEK 10
+* Graph Theory
+  * vertices = nodes
+  * edges = connection between nodes.
+* The degree of a vertex is the number of edges connected.
+* A loop is counted twice when counting degrees of vertices.
+* Handshake Theorem : 2e = Σ(degrees) * vertex ; where e is the number of edges
+* Subgraph
+* Euler's Circuit: covers all edges and returning to the same node where it started.
+  * Graph contains Euler's Circuit if al nodes have even degrees
+* Euler's Path : covers all edges although does not necessarily need to return to the starting node.
+  * Graph contains Euler's Path if exactly 2 nodes have odd degrees.
+* Hamilton's Circuit = all nodes covered and returns to starting node
+* Hamilton's Path = all nodes covered.
+* E(dge)uler ; HamiltoNodes
+* A pendant node is a node with only one degree
+* Adjacency and Incidency Matrices
+* Isomporphs
+* Graphs with no intersecting edges are called planar graphs
+* Euler's Formula to find the regions of a graph : Region = Edges - Vertices + 2
+* Kuratowski's Theorem
+
+### WEEK 11
+* Elementary Subdivisions
+* Homeomorphic graphs are subgraphs which are obtained through series of elementary subdivisions
+* Graph Coloring
+  *Recycle colors when nodes are not adjacent(connected).
+* Chromatic number = least number of colors to be used in a graph
+* Planar graphs always have a chromatic number of 4.
+* Trees
+  * Parent - Child
+  * Roots - Leaves
+* M-ary trees contain m number of children to each parent.
+* Language & Grammar
+* Formal Language are used in computers because in other human languages, there are a lot of words with multiple meanings
+* Automata Theory
+* Finite Automaton
+* Lexical Analysis
+* Finite-state Machines
